@@ -1,0 +1,1000 @@
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-08_58_53_430144:gure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-08_58_53_431009:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-08_59_05_514460:
+*Mar  1 10:20:38.184: 84D3CCF-0 Uplink: Increase scan wait time 38 msec
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-08_59_21_420456:
+*Mar  1 10:20:54.504: 94682CF-0 Uplink: Increase scan wait time 43 msec
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-08_59_37_326222:
+*Mar  1 10:21:10.862: A405C55-0 Uplink: Increase scan wait time 48 msec
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-08_59_53_430376:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-08_59_53_430591:WGB_A25(config)#
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-08_59_53_430686:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-08_59_54_226404:
+*Mar  1 10:21:27.270: B3AFABB-0 Uplink: Increase scan wait time 53 msec
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_00_53_431127:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_01_53_431065:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_02_53_431001:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_02_53_431268:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_03_53_431392:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_03_53_431788:WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_04_53_431767:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_05_53_434207:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_06_53_434463:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_07_53_434737:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_08_53_433722:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_08_53_433966:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_09_53_434541:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_10_53_434486:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_11_53_434535:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_11_53_434945:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_12_53_434622:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_12_53_434836:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_12_53_434928:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_13_53_435060:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_14_53_439119:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_15_53_435274:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_15_53_435545:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_16_53_435477:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_16_53_435696:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_16_53_435795:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_17_53_435696:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_17_53_435926:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_18_53_437168:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_19_53_436428:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_19_53_436840:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_20_53_437793:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_21_53_437925:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_22_53_437165:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_23_53_437125:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_23_53_437330:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_24_53_437211:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_24_53_437425:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_24_53_437525:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_25_53_437950:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_26_53_437641:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_26_53_437919:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_27_53_439208:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_28_53_438073:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_28_53_438281:WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_29_53_438476:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_29_53_438886:WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_30_53_438554:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_30_53_438764:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_30_53_438864:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_31_53_439147:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_32_53_440530:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_33_53_440544:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_34_53_439437:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_34_53_439642:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_34_53_439741:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_35_53_440010:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_36_53_440216:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_37_53_440905:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_38_53_440699:
+WGB_A25(config)#
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_38_53_441115:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_39_53_442054:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_40_53_441377:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_41_53_441458:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_42_53_441393:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_42_53_441593:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_42_53_441689:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_43_53_443034:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_44_53_443277:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_45_53_442813:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_46_53_442676:
+WGB_A25(config)#
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_46_53_443088:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_47_53_443054:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_48_53_442972:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_48_53_443179:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_48_53_443273:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_49_53_446427:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_50_53_443713:
+WGB_A25(config)#
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_50_53_444107:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_51_53_443791:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_51_53_444003:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_52_53_444007:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_52_53_444225:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_52_53_444885:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_53_53_444658:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_54_53_444580:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_54_53_444981:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_55_53_445270:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_56_53_445326:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_57_53_445325:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_57_53_445734:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_58_53_445571:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_58_53_445982:WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_59_53_445594:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_59_53_445808:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-09_59_53_445904:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_00_53_446322:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_01_53_446384:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_02_53_446405:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_02_53_446606:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_03_53_448482:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_04_53_450917:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_05_53_449156:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_06_53_449593:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_07_53_448906:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_07_53_449241:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_08_53_449557:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_09_53_449608:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_10_53_449799:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_10_53_450209:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_11_53_450268:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_12_53_450265:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_12_53_450495:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_13_53_451953:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_14_53_452620:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_15_53_451593:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_15_53_451906:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_16_53_452505:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_17_53_452182:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_18_53_452264:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_18_53_452768:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_19_53_455409:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_20_53_454105:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_21_53_454471:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_22_53_454621:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_23_53_454835:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_24_22_303241:
+*Mar  1 11:46:27.728: 3B8BB585-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 545
+*Mar  1 11:46:27.794: 3B8CB5D5-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:27.794: 3B8CB5EA-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:27.794: 3B8CB5F1-0 Uplink: try 34a8.4ef9.0500, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:27.794: 3B8CB5FD-0 Uplink: Authenticating
+*Mar  1 11:46:27.794: 3B8CBBB2-0 Uplink: Associating
+*Mar  1 11:46:27.863: dot11_mgmt: bad cookie returned from driver for mac 34a8.4ef9.0500(expected 0x00000000, got 0x0285F32C) - force driver to delete client
+*Mar  1 11:46:27.869: 3B8DB430-0 Uplink: Stop
+*Mar  1 11:46:27.869: 3B8DC6B1-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:27.869: 3B8DCA05-0 Uplink: Enabling active scan
+*Mar  1 11:46:27.869: 3B8DCA0D-0 Uplink: Not busy, scan all channels
+*Mar  1 11:46:27.869: 3B8DCA14-0 Uplink: Scanning
+*Mar  1 11:46:27.885: 3B8E1A38-0 Uplink: Delete previous AP
+*Mar  1 11:46:28.391: 
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_24_22_303738:3B95DC10-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 1377
+*Mar  1 11:46:28.401: 3B95FE66-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:28.401: 3B95FE76-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:28.401: 3B95FE7E-0 Uplink: try 34a8.4ef9.0500, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:28.401: 3B95FE87-0 Uplink: Authenticating
+*Mar  1 11:46:28.404: 3B960E50-0 Uplink: Associating
+*Mar  1 11:46:28.404: 3B9610DE-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:28.407: 3B9610E8-0 Uplink: Reject for 0 seconds
+*Mar  1 11:46:28.407: 3B9610EE-0 Uplink: Scanning
+*Mar  1 11:46:28.413: 3B963390-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 1248
+*Mar  1 11:46:28.429: 3B966A7A-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:28.429: 3B966A8B-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:28.429: 3B966A92-0 Uplink: try 34a8.4ef9.0500, enc 200 key 4, priv 1, eap 0
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_24_23_297865:
+*Mar  1 11:46:28.429: 3B966A9B-0 Uplink: Authenticating
+*Mar  1 11:46:28.435: 3B966CB3-0 Uplink: Lost AP, Received deauthenticate (51901) 51901
+*Mar  1 11:46:28.435: 3B966CC0-0 Uplink: Reject for 1 seconds
+*Mar  1 11:46:28.435: 3B966CC6-0 Uplink: Scanning
+*Mar  1 11:46:28.876: 3B9D3D26-0 Uplink: Unreject 34a8.4ef9.0500
+*Mar  1 11:46:28.948: 3B9E57C3-0 Uplink: Increase scan wait time 8 msec
+*Mar  1 11:46:29.448: 3BA5FDBD-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 543
+*Mar  1 11:46:29.467: 3BA648AC-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:29.467: 3BA648C0-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:29.467: 3BA648C8-0 Uplink: try 34a8.4ef9.0500, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:29.467: 3BA648D3-0 Uplink: Authenticating
+*Mar  1 11:46:29.477: 3BA64D2A-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:29.477: 3BA64D36-0 Uplink: Reject for 2 seconds
+*Mar  1 11:46:29.477: 3BA64D3D-0 Uplink: Scanning
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_24_24_294339:
+*Mar  1 11:46:29.477: 3BA66C60-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 898
+*Mar  1 11:46:29.496: 3BA6B444-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:29.496: 3BA6B456-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:29.496: 3BA6B45C-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:29.496: 3BA6B466-0 Uplink: Authenticating
+*Mar  1 11:46:29.502: 3BA6B8AC-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:29.502: 3BA6B8B7-0 Uplink: Reject for 0 seconds
+*Mar  1 11:46:29.502: 3BA6B8BE-0 Uplink: Scanning
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_24_25_294050:
+*Mar  1 11:46:30.011: 3BAE9904-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 933
+*Mar  1 11:46:30.030: 3BAEE25C-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:30.030: 3BAEE26C-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:30.030: 3BAEE273-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:30.030: 3BAEE27D-0 Uplink: Authenticating
+*Mar  1 11:46:30.030: 3BAEE5FC-0 Uplink: Associating
+*Mar  1 11:46:30.030: 3BAEE8B6-0 Uplink: Lost AP, Too many retries
+*Mar  1
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_24_25_294498: 11:46:30.030: 3BAEE8C0-0 Uplink: Reject for 1 seconds
+*Mar  1 11:46:30.030: 3BAEE8C6-0 Uplink: Scanning
+*Mar  1 11:46:30.877: 3BBBCBD7-0 Uplink: Unreject 203a.0785.1b20
+*Mar  1 11:46:30.877: 3BBBCBE7-0 Uplink: Unreject 34a8.4ef9.0500
+*Mar  1 11:46:31.059: 3BBE977E-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 542
+*Mar  1 11:46:31.078: 3BBEBA1E-0 Uplink: Compare1 203a.0785.1b20 - Rssi 88dBm, Hops 0, Count 0, load 0
+*Mar  1 11:46:31.081: 3BBEBA2E-0 Uplink: Compare2 34a8.4ef9.0500 - Rssi 83dBm, Hops 0, Count -1, load 0
+*Mar  1 11:46:31.081: 3BBEE249-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:31.081: 3BBEE257-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:31.081: 3BBEE25F-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:31.081: 3BBEE268-0 Uplink: Authenticating
+*Mar  1 11:46:31.081: 3BBEEA05-0 Uplink: Associating
+*Mar  1 11:46:31.084: 3BBEF644-0 Uplink: EAP authenticating
+*Mar  1 11:46:31.087: %DOT11-4-U
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_24_25_294806:PLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+*Mar  1 11:46:31.087: 3BBF0C54-0 Uplink: Done
+*Mar  1 11:46:31.087: 3BBF0C7D-0 Interface up
+*Mar  1 11:46:31.090: %LINK-3-UPDOWN: Interface Dot11Radio0, changed state to up
+*Mar  1 11:46:31.097: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Too many retries
+*Mar  1 11:46:31.100: 3BBF2D1D-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:31.100: 3BBF2D7F-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:31.100: 3BBF2E2A-0 Uplink: Enabling active scan
+*Mar  1 11:46:31.100: 3BBF2E31-0 Uplink: Not busy, scan all channels
+*Mar  1 11:46:31.100: 3BBF2E38-0 Uplink: Scanning
+*Mar  1 11:46:31.106: 3BBF5398-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 1371
+*Mar  1 11:46:31.122: 3BBF8B8A-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:31.122: 3BBF8B9B-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:31.122: 3BBF8BA2-0 Uplink: try 34
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_24_25_295145:a8.4ef9.0500, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:31.122: 3BBF8BAC-0 Uplink: Authenticating
+*Mar  1 11:46:31.122: 3BBF8D84-0 Uplink: Associating
+*Mar  1 11:46:31.125: 3BBF984D-0 Uplink: EAP authenticating
+*Mar  1 11:46:31.226: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-219A 34a8.4ef9.0500 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_42_794360:
+*Mar  1 11:46:31.226: 3BC126B1-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_43_788911:
+*Mar  1 11:46:32.091: %LINEPROTO-5-UPDOWN: Line protocol on Interface Dot11Radio0, changed state to up
+*Mar  1 11:46:33.418: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Too many retries
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_44_784954:
+*Mar  1 11:46:33.421: 3BE2A4DD-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:33.421: 3BE2A548-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:33.421: 3BE2A5EE-0 Uplink: Enabling active scan
+*Mar  1 11:46:33.421: 3BE2A5F6-0 Uplink: Scanning
+*Mar  1 11:46:34.202: 3BEE9792-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 558
+*Mar  1 11:46:34.211: 3BEEBD04-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:34.211: 3BEEBD15-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:34.211: 3BEEBD1D-0 Uplink: try 34a8.4ef9.0500, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:34.211: 3BEEBD26-0 Uplink: Authenticating
+*Mar  1 11:46:34.214: 3BEECED1-0 Uplink: Associating
+*Mar  1 11:46:34.217: 3BEEDB96-0 Uplink: EAP authenticating
+*Mar  1 11:46:34.224: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-219A 34a8.4ef9.0500 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_45_779726:
+*Mar  1 11:46:34.224: 3BEEF360-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_47_769346:
+*Mar  1 11:46:36.882: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:46:36.885: 3C178A76-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:46:36.885: 3C178AD6-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:36.885: 3C178C02-0 Uplink: Enabling active scan
+*Mar  1 11:46:36.885: 3C178C0A-0 Uplink: Scanning
+*Mar  1 11:46:36.897: 3C17C4CC-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 552
+*Mar  1 11:46:36.907: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-219A 34a8.4ef9.0500 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_48_762405:
+*Mar  1 11:46:36.907: 3C17EA4D-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:46:36.907: 3C17EA59-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_50_751524:
+*Mar  1 11:46:39.883: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:46:39.886: 3C4560E0-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:46:39.886: 3C45613D-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:39.886: 3C45630E-0 Uplink: Enabling active scan
+*Mar  1 11:46:39.886: 3C456316-0 Uplink: Scanning
+*Mar  1 11:46:39.892: 3C458329-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 566
+*Mar  1 11:46:39.905: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-219A 34a8.4
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_50_751770:ef9.0500 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_51_744678:
+*Mar  1 11:46:39.905: 3C45B4ED-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:46:39.905: 3C45B4F8-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_52_738678:
+*Mar  1 11:46:42.789: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Too many retries
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_53_736888:
+*Mar  1 11:46:42.793: 3C71C4AF-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:42.793: 3C71C519-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:42.793: 3C71C5C9-0 Uplink: Enabling active scan
+*Mar  1 11:46:42.793: 3C71C5D1-0 Uplink: Scanning
+*Mar  1 11:46:42.802: 3C71F627-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 979
+*Mar  1 11:46:42.818: 3C72300E-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:42.818: 3C72301F-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:42.818: 3C723026-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:42.818: 3C723030-0 Uplink: Authenticating
+*Mar  1 11:46:43.623: 3C7E7058-0 Uplink: Lost AP, Authenticate response timeout
+*Mar  1 11:46:43.623: 3C7E7069-0 Uplink: Reject for 0 seconds
+*Mar  1 11:46:43.623: 3C7E7071-0 Uplink: Scanning
+*Mar  1 11:46:43.629: 3C7E97CE-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 551
+*Mar  1 11:46:43.639: 3C7EBCF0-0 Uplink: dot11_uplink_scan_d
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_53_737334:one: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:43.639: 3C7EBD00-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:43.639: 3C7EBD07-0 Uplink: try 34a8.4ef9.0500, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:43.639: 3C7EBD11-0 Uplink: Authenticating
+*Mar  1 11:46:43.642: 3C7ECDBD-0 Uplink: Associating
+*Mar  1 11:46:43.645: 3C7ED8A2-0 Uplink: EAP authenticating
+*Mar  1 11:46:43.654: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-219A 34a8.4ef9.0500 [None WPAv2 PSK]
+*Mar  1 11:46:43.654: 3C7EF9A8-0 Uplink: Done
+*Mar  1 11:46:43.714: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Too many retries
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_54_731575:
+*Mar  1 11:46:43.721: 3C7FECC0-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:43.721: 3C7FED31-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:43.721: 3C7FEED4-0 Uplink: Enabling active scan
+*Mar  1 11:46:43.721: 3C7FEEDC-0 Uplink: Not busy, scan all channels
+*Mar  1 11:46:43.721: 3C7FEEE3-0 Uplink: Scanning
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_55_725919:
+*Mar  1 11:46:44.759: 3C8FD509-0 Uplink: Increase scan wait time 8 msec
+*Mar  1 11:46:45.768: 3C9F46F9-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 1385
+*Mar  1 11:46:45.790: 3C9F97D5-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:45.790: 3C9F97EA-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:45.790: 3C9F97F1-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:45.790: 3C9F97FB-0 Uplink: Authenticating
+*Mar  1 11:46:45.790: 3C9F99E6-0 Uplink: Associating
+*Mar  1 11:46:45.797: 3C9FA880-0 Uplink: EAP authenticating
+*Mar  1 11:46:45.800: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_56_720962:
+*Mar  1 11:46:45.800: 3C9FBC09-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_58_713207:
+*Mar  1 11:46:47.892: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:46:47.895: 3CBFB577-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:46:47.895: 3CBFB5D4-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:47.895: 3CBFB631-0 Uplink: Enabling active scan
+*Mar  1 11:46:47.895: 3CBFB639-0 Uplink: Scanning
+*Mar  1 11:46:47.914: 3CC0064B-0 Uplink: Delete previous AP
+*Mar  1 11:46:48.420: 3CC7C4EC-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 556
+*Mar  1 11:46:48.436: 3CC80065-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:48.436: 3CC80076-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:48.436: 3CC8007E-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:48.436: 3CC80088-0 Uplink: Authenticating
+*Mar  1 11:46:48.439: 3CC804D7-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:48.439: 3CC804E3-0 Uplink: Reject for 0 seconds
+*Mar  1 11:46:48.439: 3CC804EA-0 Uplink: 
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_58_713480:Scanning
+*Mar  1 11:46:48.700: 3CCC0B93-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 542
+*Mar  1 11:46:48.710: 3CCC30F4-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:48.710: 3CCC3104-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:48.710: 3CCC310B-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:48.710: 3CCC3115-0 Uplink: Authenticating
+*Mar  1 11:46:48.713: 3CCC3FDC-0 Uplink: Associating
+*Mar  1 11:46:48.719: 3CCC4C6D-0 Uplink: EAP authenticating
+*Mar  1 11:46:48.722: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_27_59_707010:
+*Mar  1 11:46:48.722: 3CCC6033-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_01_701568:
+*Mar  1 11:46:50.896: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:46:50.899: 3CED9849-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:46:50.899: 3CED98A6-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:50.899: 3CED9902-0 Uplink: Enabling active scan
+*Mar  1 11:46:50.899: 3CED990A-0 Uplink: Scanning
+*Mar  1 11:46:50.909: 3CEDCA41-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 1546
+*Mar  1 11:46:50.924: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+*Mar  1 11:46:50.924: 3CEE022E-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:46:50.924: 3CEE0238-0 Uplink: Done
+*Mar  1 11:46:51.154: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Too many retries
+*Mar  1 11:46:51.154: 3CF18A85-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:51.154: 3CF18AF2-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:51.163: 3CF196A0-0 Uplink: Enabling active scan
+*Mar  1 11:4
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_01_701999:6:51.163: 3CF196AD-0 Uplink: Not busy, scan all channels
+*Mar  1 11:46:51.163: 3CF196B4-0 Uplink: Scanning
+*Mar  1 11:46:51.166: 3CF1B9D7-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 1285
+*Mar  1 11:46:51.182: 3CF1F28E-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:51.182: 3CF1F2A0-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:51.182: 3CF1F2A8-0 Uplink: try 34a8.4ef9.0500, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:51.182: 3CF1F2B2-0 Uplink: Authenticating
+*Mar  1 11:46:51.182: 3CF1F640-0 Uplink: Associating
+*Mar  1 11:46:51.182: 3CF1F7DF-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:51.182: 3CF1F7E8-0 Uplink: Reject for 0 seconds
+*Mar  1 11:46:51.182: 3CF1F811-0 Uplink: Scanning
+*Mar  1 11:46:51.192: 3CF22033-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 4940
+*Mar  1 11:46:51.207: 3CF254F4-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:51.207: 3CF25504-
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_01_702285:0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:51.207: 3CF2550A-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:51.207: 3CF25514-0 Uplink: Authenticating
+*Mar  1 11:46:51.207: 3CF25827-0 Uplink: Associating
+*Mar  1 11:46:51.211: 3CF264BF-0 Uplink: EAP authenticating
+*Mar  1 11:46:51.214: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_02_695002:
+*Mar  1 11:46:51.214: 3CF27517-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_04_684484:
+*Mar  1 11:46:53.903: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:46:53.906: 3D1B8757-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:46:53.906: 3D1B87B6-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:53.906: 3D1B8814-0 Uplink: Enabling active scan
+*Mar  1 11:46:53.906: 3D1B881C-0 Uplink: Scanning
+*Mar  1 11:46:53.919: 3D1BC1BC-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 556
+*Mar  1 11:46:53.928: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_05_677636:
+*Mar  1 11:46:53.928: 3D1BE724-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:46:53.928: 3D1BE72F-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_06_675471:
+*Mar  1 11:46:56.005: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Too many retries
+*Mar  1 11:46:56.011: 3D3BA5AF-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:56.011: 3D3BA618-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:56.011: 3D3BA6C4-0 Uplink: Enabling active scan
+*Mar  1 11:46:56.011: 3D3BA6CC-0 Uplink: Scanning
+*Mar  1 11:46:56.020: 3D3BDA5B-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 557
+*Mar  1 11:46:56.036: 3D3C15EF-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:56.036: 3D3C1600-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:56.036: 3D3C1608-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:56.036: 3D3C1611-0 Uplink: Authenticating
+*Mar  1 11:46:56.039: 3D3C1A5F-0 Uplink: Lost AP, Too many retries
+*Mar  1 11:46:56.039: 3D3C1A6A-0 Uplink: Reject for 0 seconds
+*Mar  1 11:46:56.039: 3D3C1A70-0 Uplink: Scanning
+*Mar  1 11:46:56.303: 3D402DAE-0 Uplink: Rcvd response from 203a.
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_06_675910:0785.1b20 channel 1 615
+*Mar  1 11:46:56.313: 3D4052D8-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:46:56.313: 3D4052E8-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:46:56.313: 3D4052EF-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:46:56.313: 3D4052F9-0 Uplink: Authenticating
+*Mar  1 11:46:56.316: 3D4061AA-0 Uplink: Associating
+*Mar  1 11:46:56.319: 3D406C24-0 Uplink: EAP authenticating
+*Mar  1 11:46:56.329: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_07_668701:
+*Mar  1 11:46:56.329: 3D409664-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_09_658372:
+*Mar  1 11:46:58.908: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:46:58.911: 3D67F977-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:46:58.911: 3D67F9D3-0 Uplink: Wait for driver to stop
+*Mar  1 11:46:58.911: 3D67FA3E-0 Uplink: Enabling active scan
+*Mar  1 11:46:58.911: 3D67FA45-0 Uplink: Scanning
+*Mar  1 11:46:58.918: 3D681B5B-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 562
+*Mar  1 11:46:58.930: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_09_960833:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_09_961221:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_10_651460:
+*Mar  1 11:46:58.930: 3D684D70-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:46:58.930: 3D684D7B-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_12_642035:
+*Mar  1 11:47:01.909: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:47:01.912: 3D95CFAF-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:47:01.912: 3D95D00A-0 Uplink: Wait for driver to stop
+*Mar  1 11:47:01.912: 3D95D064-0 Uplink: Enabling active scan
+*Mar  1 11:47:01.912: 3D95D06B-0 Uplink: Scanning
+*Mar  1 11:47:01.931: 3D9620A9-0 Uplink: Delete previous AP
+*Mar  1 11:47:02.438: 3D9DE137-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 1111
+*Mar  1 11:47:02.453: 3D9E1A85-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:47:02.453: 3D9E1A97-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:47:02.453: 3D9E1A9F-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:47:02.453: 3D9E1AA8-0 Uplink: Authenticating
+*Mar  1 11:47:02.453: 3D9E1E10-0 Uplink: Associating
+*Mar  1 11:47:02.456: 3D9E2913-0 Uplink: EAP authenticating
+*Mar  1 11:47:02.463: %DOT11-4-UPLINK_ESTABLISHED: Inter
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_12_642532:face Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_13_636604:
+*Mar  1 11:47:02.463: 3D9E3F4D-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_15_625971:
+*Mar  1 11:47:04.913: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:47:04.916: 3DC3B27E-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:47:04.916: 3DC3B2DB-0 Uplink: Wait for driver to stop
+*Mar  1 11:47:04.916: 3DC3B341-0 Uplink: Enabling active scan
+*Mar  1 11:47:04.916: 3DC3B349-0 Uplink: Scanning
+*Mar  1 11:47:04.926: 3DC3E2B6-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 4163
+*Mar  1 11:47:04.935: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_16_619239:
+*Mar  1 11:47:04.935: 3DC405EA-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:47:04.935: 3DC405F5-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_18_609133:
+*Mar  1 11:47:07.914: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:47:07.917: 3DF188E2-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:47:07.917: 3DF18941-0 Uplink: Wait for driver to stop
+*Mar  1 11:47:07.917: 3DF18997-0 Uplink: Enabling active scan
+*Mar  1 11:47:07.917: 3DF1899F-0 Uplink: Scanning
+*Mar  1 11:47:07.933: 3DF1CF86-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 542
+*Mar  1 11:47:07.943: 3DF1D9C1-0 Uplink: Compare1 203a.0785.1b20 - Rssi 82dBm, Hops 0, Count 0, load 0
+*Mar  1 11:47:07.943: 3DF1D9D6-0 Uplink: Compare2 34a8.4ef9.0500 - Rssi 88dBm, Hops 0, Count -1, load 0
+*Mar  1 11:47:07.949: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_19_604569:
+*Mar  1 11:47:07.949: 3DF20B36-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:47:07.949: 3DF20B41-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_21_594999:
+*Mar  1 11:47:10.918: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:47:10.922: 3E1F6BAE-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:47:10.922: 3E1F6C0D-0 Uplink: Wait for driver to stop
+*Mar  1 11:47:10.922: 3E1F6C70-0 Uplink: Enabling active scan
+*Mar  1 11:47:10.922: 3E1F6C78-0 Uplink: Scanning
+*Mar  1 11:47:10.928: 3E1F8E00-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 546
+*Mar  1 11:47:10.941: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_22_590590:
+*Mar  1 11:47:10.941: 3E1F9786-0 Uplink: Compare1 203a.0785.1b20 - Rssi 80dBm, Hops 0, Count 0, load 0
+*Mar  1 11:47:10.941: 3E1F9797-0 Uplink: Compare2 34a8.4ef9.0500 - Rssi 85dBm, Hops 0, Count -1, load 0
+*Mar  1 11:47:10.941: 3E1FC02B-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:47:10.941: 3E1FC033-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_24_580077:
+*Mar  1 11:47:13.923: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:47:13.929: 3E4D4C46-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:47:13.929: 3E4D4C9F-0 Uplink: Wait for driver to stop
+*Mar  1 11:47:13.929: 3E4D4D03-0 Uplink: Enabling active scan
+*Mar  1 11:47:13.929: 3E4D4D0B-0 Uplink: Scanning
+*Mar  1 11:47:13.929: 3E4D6C86-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 572
+*Mar  1 11:47:13.938: 3E4D6E0E-0 Uplink: Compare1 203a.0785.1b20 - Rssi 76dBm, Hops 0, Count 0, load 0
+*Mar  1 11:47:13.942: 3E4D6E1E-0 Uplink: Compare2 34a8.4ef9.0500 - Rssi 85dBm, Hops 0, Count 0, load 0
+*Mar  1 11:47:13.945: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_25_575236:
+*Mar  1 11:47:13.945: 3E4D9FAE-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:47:13.945: 3E4D9FBC-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_27_564888:
+*Mar  1 11:47:16.927: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:47:16.930: 3E7B2C19-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:47:16.930: 3E7B2C75-0 Uplink: Wait for driver to stop
+*Mar  1 11:47:16.930: 3E7B2CCB-0 Uplink: Enabling active scan
+*Mar  1 11:47:16.930: 3E7B2CD3-0 Uplink: Scanning
+*Mar  1 11:47:16.936: 3E7B5373-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 554
+*Mar  1 11:47:16.946: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_28_565235:
+*Mar  1 11:47:16.946: 3E7B5D1A-0 Uplink: Compare1 203a.0785.1b20 - Rssi 77dBm, Hops 0, Count 0, load 0
+*Mar  1 11:47:16.946: 3E7B5D2B-0 Uplink: Compare2 34a8.4ef9.0500 - Rssi 83dBm, Hops 0, Count 0, load 0
+*Mar  1 11:47:16.946: 3E7B7875-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:47:16.946: 3E7B787D-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_30_553270:
+*Mar  1 11:47:19.934: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:47:19.937: 3EA91B28-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:47:19.937: 3EA91B84-0 Uplink: Wait for driver to stop
+*Mar  1 11:47:19.937: 3EA91BDB-0 Uplink: Enabling active scan
+*Mar  1 11:47:19.937: 3EA91BE3-0 Uplink: Scanning
+*Mar  1 11:47:19.944: 3EA94287-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 553
+*Mar  1 11:47:19.956: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_31_546669:
+*Mar  1 11:47:19.956: 3EA94C31-0 Uplink: Compare1 203a.0785.1b20 - Rssi 72dBm, Hops 0, Count 0, load 0
+*Mar  1 11:47:19.956: 3EA94C42-0 Uplink: Compare2 34a8.4ef9.0500 - Rssi 81dBm, Hops 0, Count 0, load 0
+*Mar  1 11:47:19.956: 3EA97463-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:47:19.956: 3EA9746A-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_34_529936:
+*Mar  1 11:47:23.936: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:47:23.939: 3EE6392E-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:47:23.939: 3EE63989-0 Uplink: Wait for driver to stop
+*Mar  1 11:47:23.939: 3EE639E9-0 Uplink: Enabling active scan
+*Mar  1 11:47:23.939: 3EE639F1-0 Uplink: Scanning
+*Mar  1 11:47:23.945: 3EE667A1-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 2379
+*Mar  1 11:47:23.961: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_35_522140:
+*Mar  1 11:47:23.961: 3EE69BB8-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:47:23.961: 3EE69BC2-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_38_506389:
+*Mar  1 11:47:27.937: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:47:27.940: 3F23571D-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:47:27.940: 3F23577A-0 Uplink: Wait for driver to stop
+*Mar  1 11:47:27.940: 3F2357D0-0 Uplink: Enabling active scan
+*Mar  1 11:47:27.940: 3F2357D7-0 Uplink: Scanning
+*Mar  1 11:47:27.953: 3F239A6F-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 1516
+*Mar  1 11:47:27.968: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_39_498681:
+*Mar  1 11:47:27.968: 3F23D267-0 Uplink: Same as previous, send null data packet
+*Mar  1 11:47:27.968: 3F23D274-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_58_390157:
+*Mar  1 11:47:47.944: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:47:47.947: 4054ED0D-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:47:47.947: 4054ED6D-0 Uplink: Wait for driver to stop
+*Mar  1 11:47:47.947: 4054EDCB-0 Uplink: Enabling active scan
+*Mar  1 11:47:47.947: 4054EDD3-0 Uplink: Scanning
+*Mar  1 11:47:47.953: 40551469-0 Uplink: Rcvd response from 34a8.4ef9.0500 channel 1 555
+*Mar  1 11:47:47.963: 40551E10-0 Uplink: Compare1 203a.0785.1b20 - Rssi 71dBm, Hops 0, Count 0, load 0
+*Mar  1 11:47:47.963: 40551E20-0 Uplink: Compare2 34a8.4ef9.0500 - Rssi 67dBm, Hops 0, Count 0, load 0
+*Mar  1 11:47:47.969: 40554FA3-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:47:47.969: 40554FB5-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:47:47.969: 40554FBD-0 Uplink: try 34a8.4ef9.0500, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:47:47.969: 40554FC7-0 Uplink: Authenticating
+*Mar  1 11:47:47.969: 405
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_58_390381:5520D-0 Uplink: Associating
+*Mar  1 11:47:47.972: 405558F9-0 Uplink: EAP authenticating
+*Mar  1 11:47:47.972: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-219A 34a8.4ef9.0500 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_28_59_384811:
+*Mar  1 11:47:47.972: 40556476-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_29_09_960789:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_29_09_961002:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_30_09_961457:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_31_09_961374:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_32_09_961327:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_32_09_961576:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_33_09_961520:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_33_09_961726:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_33_09_961833:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_34_09_961758:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_34_09_961968:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_34_09_962066:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_34_22_474326:
+*Mar  1 11:53:14.058: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:53:14.061: 53CA04E3-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:53:14.061: 53CA0546-0 Uplink: Wait for driver to stop
+*Mar  1 11:53:14.061: 53CA05A0-0 Uplink: Enabling active scan
+*Mar  1 11:53:14.061: 53CA05A8-0 Uplink: Scanning
+*Mar  1 11:53:14.068: 53CA2C44-0 Uplink: Rcvd response from 203a.0785.1b20 channel 1 557
+*Mar  1 11:53:14.080: 53CA3601-0 Uplink: Compare1 203a.0785.1b20 - Rssi 44dBm, Hops 0, Count 0, load 0
+*Mar  1 11:53:14.080: 53CA3612-0 Uplink: Compare2 5478.1a73.d7e0 - Rssi 76dBm, Hops 0, Count 0, load 0
+*Mar  1 11:53:14.080: 53CA361D-0 Uplink: Compare1 203a.0785.1b20 - Rssi 44dBm, Hops 0, Count 0, load 0
+*Mar  1 11:53:14.080: 53CA3627-0 Uplink: Compare2 34bd.c87f.ba70 - Rssi 82dBm, Hops 0, Count 0, load 0
+*Mar  1 11:53:14.080: 53CA5E7B-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:53:14.080: 53CA5E8
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_34_22_474601:A-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:53:14.080: 53CA5E92-0 Uplink: try 203a.0785.1b20, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:53:14.080: 53CA5E9C-0 Uplink: Authenticating
+*Mar  1 11:53:14.080: 53CA60BE-0 Uplink: Associating
+*Mar  1 11:53:14.083: 53CA6834-0 Uplink: EAP authenticating
+*Mar  1 11:53:14.086: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-218A 203a.0785.1b20 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_34_23_468078:
+*Mar  1 11:53:14.086: 53CA7B0C-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_35_09_961966:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_35_09_962168:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_35_52_941581:
+*Mar  1 11:54:45.092: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:54:45.096: 59387B43-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:54:45.099: 59387BA3-0 Uplink: Wait for driver to stop
+*Mar  1 11:54:45.099: 59387BFD-0 Uplink: Enabling active scan
+*Mar  1 11:54:45.099: 59387C05-0 Uplink: Scanning
+*Mar  1 11:54:45.111: 5938CA47-0 Uplink: Rcvd response from 1833.9da0.a090 channel 1 1367
+*Mar  1 11:54:45.121: 5938D131-0 Uplink: Compare1 1833.9da0.a090 - Rssi 65dBm, Hops 0, Count 0, load 0
+*Mar  1 11:54:45.121: 5938D141-0 Uplink: Compare2 34bd.c87f.ba70 - Rssi 76dBm, Hops 0, Count 0, load 0
+*Mar  1 11:54:45.121: 5938D14C-0 Uplink: Compare1 1833.9da0.a090 - Rssi 65dBm, Hops 0, Count 0, load 0
+*Mar  1 11:54:45.121: 5938D155-0 Uplink: Compare2 5478.1a73.d7e0 - Rssi 67dBm, Hops 0, Count 0, load 0
+*Mar  1 11:54:45.121: 5938ECF0-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:54:45.121: 5938EC
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_35_52_941815:FF-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:54:45.121: 5938ED07-0 Uplink: try 1833.9da0.a090, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:54:45.121: 5938ED11-0 Uplink: Authenticating
+*Mar  1 11:54:45.124: 5938FBC4-0 Uplink: Associating
+*Mar  1 11:54:45.127: 59390318-0 Uplink: EAP authenticating
+*Mar  1 11:54:45.130: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-217A 1833.9da0.a090 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_35_53_935385:
+*Mar  1 11:54:45.130: 59391701-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_09_962129:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_09_962377:
+
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_09_962474:WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_16_803389:
+*Mar  1 11:55:09.104: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:55:09.107: 5AA73B77-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:55:09.107: 5AA73BD5-0 Uplink: Wait for driver to stop
+*Mar  1 11:55:09.107: 5AA73C37-0 Uplink: Enabling active scan
+*Mar  1 11:55:09.107: 5AA73C3F-0 Uplink: Scanning
+*Mar  1 11:55:09.113: 5AA762D9-0 Uplink: Rcvd response from 5478.1a73.d7e0 channel 1 558
+*Mar  1 11:55:09.123: 5AA772FF-0 Uplink: Compare1 5478.1a73.d7e0 - Rssi 57dBm, Hops 0, Count 0, load 0
+*Mar  1 11:55:09.123: 5AA77315-0 Uplink: Compare2 203a.0785.1b20 - Rssi 85dBm, Hops 0, Count 0, load 0
+*Mar  1 11:55:09.123: 5AA77320-0 Uplink: Compare1 5478.1a73.d7e0 - Rssi 57dBm, Hops 0, Count 0, load 0
+*Mar  1 11:55:09.123: 5AA7732A-0 Uplink: Compare2 34bd.c87f.ba70 - Rssi 68dBm, Hops 0, Count 0, load 0
+*Mar  1 11:55:09.129: 5AA79E1E-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:55:09.129: 5AA79E3
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_16_803659:1-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:55:09.129: 5AA79E38-0 Uplink: try 5478.1a73.d7e0, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:55:09.129: 5AA79E43-0 Uplink: Authenticating
+*Mar  1 11:55:09.129: 5AA7A064-0 Uplink: Associating
+*Mar  1 11:55:09.132: 5AA7A7C9-0 Uplink: EAP authenticating
+*Mar  1 11:55:09.138: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-216A 5478.1a73.d7e0 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_17_797281:
+*Mar  1 11:55:09.138: 5AA7C313-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_21_777248:
+*Mar  1 11:55:14.109: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:55:14.112: 5AF3AD44-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:55:14.112: 5AF3ADA1-0 Uplink: Wait for driver to stop
+*Mar  1 11:55:14.112: 5AF3ADFB-0 Uplink: Enabling active scan
+*Mar  1 11:55:14.112: 5AF3AE03-0 Uplink: Scanning
+*Mar  1 11:55:14.118: 5AF3D49E-0 Uplink: Rcvd response from 34bd.c87f.ba70 channel 1 561
+*Mar  1 11:55:14.131: 5AF3DE42-0 Uplink: Compare1 5478.1a73.d7e0 - Rssi 72dBm, Hops 0, Count 0, load 0
+*Mar  1 11:55:14.131: 5AF3DE53-0 Uplink: Compare2 34a8.4ef8.ff20 - Rssi 82dBm, Hops 0, Count 0, load -3
+*Mar  1 11:55:14.131: 5AF3DE5F-0 Uplink: Compare1 5478.1a73.d7e0 - Rssi 72dBm, Hops 0, Count 0, load 0
+*Mar  1 11:55:14.131: 5AF3DE68-0 Uplink: Compare2 34bd.c87f.ba70 - Rssi 65dBm, Hops 0, Count 0, load 0
+*Mar  1 11:55:14.131: 5AF406CD-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:55:14.131: 5AF406
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_21_777680:DC-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:55:14.131: 5AF406E3-0 Uplink: try 34bd.c87f.ba70, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:55:14.131: 5AF406ED-0 Uplink: Authenticating
+*Mar  1 11:55:14.131: 5AF40912-0 Uplink: Associating
+*Mar  1 11:55:14.134: 5AF41080-0 Uplink: EAP authenticating
+*Mar  1 11:55:14.140: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-212A 34bd.c87f.ba70 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_22_770815:
+*Mar  1 11:55:14.140: 5AF429A8-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_28_739249:
+*Mar  1 11:55:21.114: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:55:21.117: 5B5EADFE-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:55:21.120: 5B5EAE5C-0 Uplink: Wait for driver to stop
+*Mar  1 11:55:21.120: 5B5EAEB6-0 Uplink: Enabling active scan
+*Mar  1 11:55:21.120: 5B5EAEBE-0 Uplink: Scanning
+*Mar  1 11:55:21.124: 5B5ED576-0 Uplink: Rcvd response from 5478.1a73.d7e0 channel 1 559
+*Mar  1 11:55:21.133: 5B5EDF08-0 Uplink: Compare1 34bd.c87f.ba70 - Rssi 76dBm, Hops 0, Count 0, load 0
+*Mar  1 11:55:21.133: 5B5EDF18-0 Uplink: Compare2 34a8.4ef8.ff20 - Rssi 84dBm, Hops 0, Count 0, load -3
+*Mar  1 11:55:21.133: 5B5EDF24-0 Uplink: Compare1 34bd.c87f.ba70 - Rssi 76dBm, Hops 0, Count 0, load 0
+*Mar  1 11:55:21.133: 5B5EDF2E-0 Uplink: Compare2 5478.1a73.d7e0 - Rssi 58dBm, Hops 0, Count -1, load 0
+*Mar  1 11:55:21.139: 5B5F10A0-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:55:21.139: 5B5F1
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_28_739707:0B4-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:55:21.139: 5B5F10BB-0 Uplink: try 5478.1a73.d7e0, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:55:21.139: 5B5F10C6-0 Uplink: Authenticating
+*Mar  1 11:55:21.139: 5B5F12BE-0 Uplink: Associating
+*Mar  1 11:55:21.142: 5B5F1D38-0 Uplink: EAP authenticating
+*Mar  1 11:55:21.149: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-216A 5478.1a73.d7e0 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_36_29_732808:
+*Mar  1 11:55:21.149: 5B5F352C-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_37_09_963006:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_37_09_963685:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_37_26_401300:
+*Mar  1 11:56:19.137: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:56:19.140: 5ED4ED0F-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:56:19.140: 5ED4ED6D-0 Uplink: Wait for driver to stop
+*Mar  1 11:56:19.140: 5ED4EDD3-0 Uplink: Enabling active scan
+*Mar  1 11:56:19.140: 5ED4EDDA-0 Uplink: Scanning
+*Mar  1 11:56:19.146: 5ED51579-0 Uplink: Rcvd response from 34bd.c87f.ba70 channel 1 813
+*Mar  1 11:56:19.156: 5ED51E13-0 Uplink: Compare1 34bd.c87f.ba70 - Rssi 51dBm, Hops 0, Count 0, load 0
+*Mar  1 11:56:19.156: 5ED51E23-0 Uplink: Compare2 34a8.4ef9.0550 - Rssi 80dBm, Hops 0, Count 0, load 0
+*Mar  1 11:56:19.156: 5ED51E2E-0 Uplink: Compare1 34bd.c87f.ba70 - Rssi 51dBm, Hops 0, Count 0, load 0
+*Mar  1 11:56:19.156: 5ED51E37-0 Uplink: Compare2 203a.07ba.c0a0 - Rssi 69dBm, Hops 0, Count 0, load -3
+*Mar  1 11:56:19.156: 5ED51E41-0 Uplink: Compare1 34bd.c87f.ba70 - Rssi 51dBm, Hops 0, Count 0, load 0
+*Mar  1 11:56:19.156: 5ED51E4B-0 Uplink: Compare2 3
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_37_26_401730:4a8.4ef8.ff20 - Rssi 60dBm, Hops 0, Count 0, load -3
+*Mar  1 11:56:19.162: 5ED54FA9-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:56:19.162: 5ED54FBC-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:56:19.162: 5ED54FC4-0 Uplink: try 34bd.c87f.ba70, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:56:19.162: 5ED54FCE-0 Uplink: Authenticating
+*Mar  1 11:56:19.162: 5ED551CC-0 Uplink: Associating
+*Mar  1 11:56:19.165: 5ED55913-0 Uplink: EAP authenticating
+*Mar  1 11:56:19.172: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-212A 34bd.c87f.ba70 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_37_27_394430:
+*Mar  1 11:56:19.172: 5ED5747A-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_37_56_227288:
+*Mar  1 11:56:49.150: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:56:49.154: 609F5A40-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:56:49.154: 609F5A9E-0 Uplink: Wait for driver to stop
+*Mar  1 11:56:49.154: 609F5B03-0 Uplink: Enabling active scan
+*Mar  1 11:56:49.154: 609F5B0B-0 Uplink: Scanning
+*Mar  1 11:56:49.160: 609F819A-0 Uplink: Rcvd response from 203a.07ba.c0a0 channel 1 560
+*Mar  1 11:56:49.172: 609F8B3C-0 Uplink: Compare1 203a.07ba.c0a0 - Rssi 53dBm, Hops 0, Count 0, load 3
+*Mar  1 11:56:49.172: 609F8B4D-0 Uplink: Compare2 34a8.4ef9.0550 - Rssi 77dBm, Hops 0, Count 0, load 3
+*Mar  1 11:56:49.172: 609F8B58-0 Uplink: Compare1 203a.07ba.c0a0 - Rssi 53dBm, Hops 0, Count 0, load 3
+*Mar  1 11:56:49.172: 609F8B62-0 Uplink: Compare2 5478.1a73.af10 - Rssi 77dBm, Hops 0, Count 0, load -2
+*Mar  1 11:56:49.172: 609FB3F8-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:56:49.172: 609FB4
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_37_56_227758:07-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:56:49.172: 609FB40F-0 Uplink: try 203a.07ba.c0a0, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:56:49.172: 609FB419-0 Uplink: Authenticating
+*Mar  1 11:56:49.172: 609FB63F-0 Uplink: Associating
+*Mar  1 11:56:49.176: 609FBE70-0 Uplink: EAP authenticating
+*Mar  1 11:56:49.179: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-211A 203a.07ba.c0a0 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_37_57_220847:
+*Mar  1 11:56:49.179: 609FC905-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_38_09_962480:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_38_09_962690:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_39_09_964430:
+WGB_A25(config)#
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_40_09_962839:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_40_09_963040:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_40_14_411989:
+*Mar  1 11:59:08.201: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:59:08.204: 68EB386A-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:59:08.204: 68EB38C8-0 Uplink: Wait for driver to stop
+*Mar  1 11:59:08.204: 68EB3928-0 Uplink: Enabling active scan
+*Mar  1 11:59:08.204: 68EB392F-0 Uplink: Scanning
+*Mar  1 11:59:08.210: 68EB5FC4-0 Uplink: Rcvd response from 34a8.4ef9.0550 channel 1 559
+*Mar  1 11:59:08.223: 68EB6968-0 Uplink: Compare1 203a.07ba.c0a0 - Rssi 69dBm, Hops 0, Count 0, load 3
+*Mar  1 11:59:08.223: 68EB6979-0 Uplink: Compare2 5478.1aa0.49f0 - Rssi 79dBm, Hops 0, Count 0, load -1
+*Mar  1 11:59:08.223: 68EB6984-0 Uplink: Compare1 203a.07ba.c0a0 - Rssi 69dBm, Hops 0, Count 0, load 3
+*Mar  1 11:59:08.223: 68EB698E-0 Uplink: Compare2 34a8.4ef9.0550 - Rssi 63dBm, Hops 0, Count 0, load 3
+*Mar  1 11:59:08.223: 68EB91FC-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:59:08.223: 68EB92
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_40_14_412426:0B-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:59:08.223: 68EB9212-0 Uplink: try 34a8.4ef9.0550, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:59:08.223: 68EB921C-0 Uplink: Authenticating
+*Mar  1 11:59:08.223: 68EB9440-0 Uplink: Associating
+*Mar  1 11:59:08.226: 68EB9BB0-0 Uplink: EAP authenticating
+*Mar  1 11:59:08.229: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-210A 34a8.4ef9.0550 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_40_15_405583:
+*Mar  1 11:59:08.229: 68EBAC72-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_41_02_132807:
+*Mar  1 11:59:56.221: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 11:59:56.224: 6BC8AC87-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 11:59:56.224: 6BC8ACE5-0 Uplink: Wait for driver to stop
+*Mar  1 11:59:56.224: 6BC8AD48-0 Uplink: Enabling active scan
+*Mar  1 11:59:56.224: 6BC8AD50-0 Uplink: Scanning
+*Mar  1 11:59:56.230: 6BC8D3DF-0 Uplink: Rcvd response from 5478.1a73.af10 channel 1 561
+*Mar  1 11:59:56.243: 6BC8DD7D-0 Uplink: Compare1 34a8.4ef9.0550 - Rssi 70dBm, Hops 0, Count 0, load 0
+*Mar  1 11:59:56.243: 6BC8DD8D-0 Uplink: Compare2 5478.1aa0.07f0 - Rssi 74dBm, Hops 0, Count 0, load -5
+*Mar  1 11:59:56.243: 6BC8DD99-0 Uplink: Compare1 34a8.4ef9.0550 - Rssi 70dBm, Hops 0, Count 0, load 0
+*Mar  1 11:59:56.243: 6BC8DDA2-0 Uplink: Compare2 5478.1aa0.49f0 - Rssi 72dBm, Hops 0, Count 0, load -4
+*Mar  1 11:59:56.243: 6BC8DDAC-0 Uplink: Compare1 34a8.4ef9.0550 - Rssi 70dBm, Hops 0, Count 0, load 0
+*Mar  1 11:59:56.243: 6BC8DDB6-0 Uplink: Compare2 
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_41_02_133044:5478.1a73.af10 - Rssi 62dBm, Hops 0, Count 0, load -5
+*Mar  1 11:59:56.243: 6BC90614-0 Uplink: dot11_uplink_scan_done: rsnie_accept returns 0x0 key_mgmt 0xFAC02 encrypt_type 0x200
+*Mar  1 11:59:56.243: 6BC90624-0 Uplink: ssid CBTC_A auth open
+*Mar  1 11:59:56.243: 6BC9062B-0 Uplink: try 5478.1a73.af10, enc 200 key 4, priv 1, eap 0
+*Mar  1 11:59:56.243: 6BC90635-0 Uplink: Authenticating
+*Mar  1 11:59:56.243: 6BC90858-0 Uplink: Associating
+*Mar  1 11:59:56.246: 6BC90FC2-0 Uplink: EAP authenticating
+*Mar  1 11:59:56.252: %DOT11-4-UPLINK_ESTABLISHED: Interface Dot11Radio0, Associated To AP AP-02-209A 5478.1a73.af10 [None WPAv2 PSK]
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_41_03_126047:
+*Mar  1 11:59:56.252: 6BC927CE-0 Uplink: Done
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_41_09_962983:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_41_09_963643:
+WGB_A25(config)#
+NID_0_TRID_0_ETHDEBUG_TS_2013_11_04-10_41_45_877296:
+*Mar  1 12:00:40.239: %DOT11-4-UPLINK_DOWN: Interface Dot11Radio0, parent lost: Signal strength too low
+*Mar  1 12:00:40.245: 6E690459-0 Uplink: Lost AP, Signal strength too low
+*Mar  1 12:00:40.245: 6E6904B6-0 Uplink: Wait for driver to stop
+*Mar  1 12:00:40.245: 6E690541-0 Uplink: Enabling active scan
+*Mar  1 12:00:40.245: 6E690548-0 Uplink: Scanning
+*Mar  1 12:00:40.254: 6E694221-0 Uplink: Rcvd response from 5478.1aa0.49f0 channel 1 558
+*Mar  1 12:00:40.267: 6E694C3D-0 Uplink: Compare1 5478.1aa0.49f0 - Rssi 62dBm, Hops 0, Count 0, load 4
+*Mar  1 12:00:40.267: 6E694C4E-0 Uplink: Compare2 5478.1aa0.07f0 - Rssi 66dBm, Hops 0, Count 0, load -1
+*Mar  1 12:00:40.267: 6E694C59-0 Uplink: Compare1 5478.1aa0.49f0 - Rssi 62dBm, Hops 0, Count 0, load 4
+*Mar  1 12:00:40.267: 6E694C63-0 Uplink: Compare2 5478.1aa0.93e0 - Rssi 88dBm, Hops 0, Count 0, load -1
+*Mar  1 12:00:40.267: 6E694C6D-0 Uplink: Compare1 5478.1aa0.49f0 - Rssi 62dBm, Hops 0, Count 0, load 4
