@@ -20,7 +20,8 @@
 # Enviroment variables can be set here.
 
 #JAVA_HOME=/usr/lib/jvm/java-6-sun
-JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64/
+#JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64/
+JAVA_HOME=/jre
 
 # Give Flume more memory and pre-allocate, enable remote monitoring via JMX
 JAVA_OPTS="-Xms200m -Xmx200m -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.port=5400"

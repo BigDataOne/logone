@@ -145,7 +145,7 @@ cluster.name: elasticsearch
 
 # Path to directory where to store index data allocated for this node.
 #
-path.data: /home/liushenghua/.searchdata/index
+path.data: /data/searchdata/index
 #
 # Can optionally include more than one location, causing data to be striped across
 # the locations (a la RAID 0) on a file level, favouring locations with most free
@@ -155,11 +155,11 @@ path.data: /home/liushenghua/.searchdata/index
 
 # Path to temporary files:
 #
-path.work: /home/liushenghua/.estmp
+path.work: /data/searchtmp
 
 # Path to log files:
 #
-path.logs: /home/liushenghua/.searchdata/logs
+path.logs: /data/searchdata/logs
 
 # Path to where plugins are installed:
 #
