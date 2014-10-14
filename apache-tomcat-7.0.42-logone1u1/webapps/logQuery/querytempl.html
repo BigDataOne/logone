@@ -1,0 +1,34 @@
+<%$for(var i=0;i<queryData.length;i++){%>
+			
+	<div class="result c-container " >
+		<h3 class="t">
+			<a  target="_blank"  href="queryContext.html?id=<%=$queryData[i].id%>&text=<%=$queryData.text%>&type=<%=$queryData.type%>&from=<%=$queryData.from%>&to=<%=$queryData.to%>&row=<%=$queryData[i].row%>&time=<%=$queryData[i].createTime%>&<%=$new Date().getTime()%>" >
+			<%=$queryData[i].id%>
+			</a>
+		</h3>
+		<div class="c-abstract">
+		<%$  var cutoff = 146;                                 %>
+		<%$  var content = queryData[i].content;               %>
+		<%$  if(content.length>cutoff){                        %>
+		<%$     content = content.substring(0,cutoff)+" ...";  %>
+	    <%$  }                                                 %>
+	    <%=$content%>
+		</div>
+		<div class="f13">
+			<span class="g"><%=$ new Date(parseInt(queryData[i].createTime)).toUTCString() %></span>
+			<div class="c-tools" id="tools_2420602831017463436" >
+			   <a class="c-tip-icon">
+				  <i class="c-icon c-icon-triangle-down-g"></i>
+			   </a>
+			</div>
+			<span class="c-icons-outer">
+			   <span class="c-icons-inner">
+			   </span>
+			</span>&nbsp;-&nbsp;
+			<span href="" target="_blank" class="m"><%=$queryData[i].type%></span>
+		</div>
+	</div>
+	
+<%$}%>
+
+

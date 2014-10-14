@@ -1,0 +1,215 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+        <title>Untitled Document</title>
+        <link rel="stylesheet" href="js/ETUTable.css" type="text/css" />
+        <script type="text/javascript" language="JavaScript" src="jquery-1.4.min.js">
+        </script>
+        <script type="text/javascript" language="JavaScript" src="JSTemplate.js">
+        </script>
+        <script type="text/javascript" src="data.js">
+        </script>
+        <script type="text/javascript">
+            
+            $(document).ready(function(){
+                //there are three way to get a template str
+                //1.  get from a textarea value
+                var str1 = $("#tempalte1").val();
+                //create a JSTemplate instance using a template string as parameter
+                var template1 = new JSTemplate(str1);
+                //render
+                $("#con1").html(template1.render({
+                    demoArr: importData,
+                    desc: "Demo 1"
+                }));
+                //2. get from a <script type='text/html'> tag
+				//create a JSTemplate instance
+                var template2 = new JSTemplate();
+				//load template string from  <script type='text/html'> tag which id is "template2"
+                template2.loadTemplateInSide("template2");
+                //render
+                $("#con2").html(template2.render({
+                    demoArr: importData,
+                    desc: "Demo 2"
+                }));
+                //3. get from outside using JSTemplate.loadTemplate method
+                //create a JSTemplate instance
+                var template3 = new JSTemplate()
+				//load template string from  another file which filename is "template3.htm"
+                template3.loadTemplateOutSide("template3.htm");
+                //render
+                $("#con3").html(template3.render({
+                    demoArr: importData,
+                    desc: "Demo 3"
+                }));
+                
+                
+            });
+        </script>
+        <style type="text/css">
+            table {
+                border-left: 1px solid #444444;
+                border-top: 1px solid #444444;
+                table-layout: fixed;
+            }
+            
+            td, th {
+                border-right: 1px solid #444444;
+                border-bottom: 1px solid #444444;
+                padding: 2px 6px 2px 6px;
+                overflow: auto;
+            }
+        </style>
+        <script type='text/html' id="template2">
+            <table id="table" cellpadding="0" cellspacing="0" style="width:80%;">
+                <thead>
+                    <tr>
+                        <td colspan="8">
+                            <%=$desc %>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th id="urgency">
+                            Urgency
+                        </th>
+                        <th id="date">
+                            Date
+                        </th>
+                        <th id="time">
+                            Time
+                        </th>
+                        <th id="title">
+                            Title
+                        </th>
+                        <th id="status">
+                            Status
+                        </th>
+                        <th id="author">
+                            Requested By
+                        </th>
+                        <th id="cost">
+                            Cost
+                        </th>
+                        <th id="size">
+                            Size
+                        </th>
+                    </tr>
+                </thead>
+                <tbody class="TableBody">
+                <%$for(var i=0;i<demoArr.length;i++){ %>
+                <tr>
+                    <td>
+                        <%=$demoArr[i].Urgency %>
+                    </td>
+                    <td>
+                        <%=$demoArr[i].Date %>
+                    </td>
+                    <td>
+                        <%=$demoArr[i].Time %>
+                    </td>
+                    <td>
+                        <%=$demoArr[i].Title %>
+                    </td>
+                    <td>
+                        <%=$demoArr[i].Status %>
+                    </td>
+                    <td>
+                        <%=$demoArr[i].Requested %>
+                    </td>
+                    <td>
+                        <%=$demoArr[i].Cost %>
+                    </td>
+                    <td>
+                        <%=$demoArr[i].Size %>
+                    </td>
+                </tr>
+                <%$} %>
+                </script>
+            </head>
+            <body>
+                <textarea id="tempalte1" style="display:none">
+                    <table id="table" cellpadding="0" cellspacing="0" style="width:80%;">
+                        <thead>
+                            <tr>
+                                <td colspan="8">
+                                    <%=$desc %>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th id="urgency">
+                                    Urgency
+                                </th>
+                                <th id="date">
+                                    Date
+                                </th>
+                                <th id="time">
+                                    Time
+                                </th>
+                                <th id="title">
+                                    Title
+                                </th>
+                                <th id="status">
+                                    Status
+                                </th>
+                                <th id="author">
+                                    Requested By
+                                </th>
+                                <th id="cost">
+                                    Cost
+                                </th>
+                                <th id="size">
+                                    Size
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody class="TableBody">
+                        <%$for(var i=0;i<demoArr.length;i++){ %>
+                        <tr>
+                            <td>
+                                <%=$demoArr[i].Urgency %>
+                            </td>
+                            <td>
+                                <%=$demoArr[i].Date %>
+                            </td>
+                            <td>
+                                <%=$demoArr[i].Time %>
+                            </td>
+                            <td>
+                                <%=$demoArr[i].Title %>
+                            </td>
+                            <td>
+                                <%=$demoArr[i].Status %>
+                            </td>
+                            <td>
+                                <%=$demoArr[i].Requested %>
+                            </td>
+                            <td>
+                                <%=$demoArr[i].Cost %>
+                            </td>
+                            <td>
+                                <%=$demoArr[i].Size %>
+                            </td>
+                        </tr>
+                        <%$} %>
+                        </textarea>
+                        <hr/>
+                        <div>
+                            Load Template use method 1
+                        </div>
+                        <div id="con1">
+                        </div>
+                        <hr/>
+                        <div>
+                            Load Template use method 2
+                        </div>
+                        <div id="con2">
+                        </div>
+                        <hr/>
+                        <div>
+                            Load Template use method 3
+                        </div>
+                        <div id="con3">
+                        </div>
+                    </body>
+                    </html>
