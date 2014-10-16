@@ -1,0 +1,59 @@
+ <table  id="table" cellpadding="0" cellspacing="0" style="width:80%;">
+            <thead>
+					<tr><td colspan="8"><%=$desc%></td></tr>
+                <tr>
+                    <th id="urgency">
+                        Urgency
+                    </th>
+                    <th id="date">
+                        Date
+                    </th>
+                    <th id="time">
+                        Time
+                    </th>
+                    <th id="title">
+                        Title
+                    </th>
+                    <th id="status">
+                        Status
+                    </th>
+                    <th id="author">
+                        Requested By
+                    </th>
+                    <th id="cost">
+                        Cost
+                    </th>
+                    <th id="size">
+                        Size
+                    </th>
+                </tr>
+            </thead>
+            <tbody class="TableBody">
+			<%$for(var i=0;i<demoArr.length;i++){%>
+				<tr>
+                    <td>
+                        <%=$demoArr[i].Urgency%>
+                    </td>
+                    <td>
+                       <%=$demoArr[i].Date%>
+                    </td>
+                    <td>
+                       <%=$demoArr[i].Time%>
+                    </td>
+                    <td>
+                       <%=$demoArr[i].Title%>
+                    </td>
+                    <td>
+                        <%=$demoArr[i].Status%>
+                    </td>
+                    <td>
+                        <%=$demoArr[i].Requested%>
+                    </td>
+                    <td>
+                      <%=$demoArr[i].Cost%>
+                    </td>
+                    <td>
+                       <%=$demoArr[i].Size%>
+                    </td>
+                </tr>
+				<%$}%>

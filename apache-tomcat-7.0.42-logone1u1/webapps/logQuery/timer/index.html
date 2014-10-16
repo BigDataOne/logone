@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+
+  <title>Timepicker for jQuery &ndash; Demos and Documentation</title>
+  
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+  <script type="text/javascript" src="jquery.timepicker.js"></script>
+  <link rel="stylesheet" type="text/css" href="jquery.timepicker.css" />
+
+  <script type="text/javascript" src="lib/bootstrap-datepicker.js"></script>
+  <link rel="stylesheet" type="text/css" href="lib/bootstrap-datepicker.css" />
+
+  <script type="text/javascript" src="lib/site.js"></script>
+  <link rel="stylesheet" type="text/css" href="lib/site.css" />
+
+</head>
+
+<body>
+             
+     <p id="datepairExample">
+         <input type="text" class="date start" />
+         <input type="text" class="time start" /> 
+         <input type="text" class="time end" />
+         <input type="text" class="date end" />
+     </p>
+  
+
+    <script>
+        $('#datepairExample .time').timepicker({
+            'showDuration': true,
+            'timeFormat': 'g:ia'
+        });
+
+        $('#datepairExample .date').datepicker({
+            'format': 'm/d/yyyy',
+            'autoclose': true
+        });
+
+        //$('#datepairExample').datepair();
+    </script>
+
+
+
+  
+</body>
+</html>

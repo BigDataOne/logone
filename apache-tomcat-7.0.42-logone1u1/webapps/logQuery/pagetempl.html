@@ -1,0 +1,16 @@
+<%$  if(pageData.now != 1){           %>
+        <a class="pn" href="#" id="pnpre" onclick="query(<%=$pageData.now%>-1)"><span style="margin-right:53px">上一页</span></a>
+<%$  }                                %>
+
+<%$  for(var i = pageData.from; i < pageData.from+pageData.size; i++){%>
+       
+<%$     if(i==pageData.now){          %>
+           <span style="font-weight: bold;"><%=$pageData.now%></span>
+<%$     }else{                        %>
+           <a class="fl" href="#" onclick="query(<%=$i%>)"><%=$i%></a>	  
+<%$     }                             %>
+<%$  }                                %>
+
+<%$  if(pageData.now != pageData.from+pageData.size-1){ %>
+        <a class="pn" href="#" id="pnnext" onclick="query(<%=$pageData.now%>-0+1)"><span style="margin-left:53px">下一页</span></a>
+<%$  }                               %>
