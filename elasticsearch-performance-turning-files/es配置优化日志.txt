@@ -1,0 +1,11 @@
+1. swapoff可以关闭系统swap，但不能对某个进程禁止swap
+
+2. search load balancer 与 master、datanode不可以同时存在
+而master和datanode可以同时存在。我觉得我们可以不要searchload balancer。可以全做datanode，然后挑选两个先做master来提升写性能。
+
+3 index setting
+Bulk Loading的情景我们只有重建索引的时候使用。不体现在配置里面
+flush的频率默认值是30minflush一次，200mbflush一次，觉得这个参数可以，不会影响性能。可以先尝试默认。
+
+
+
