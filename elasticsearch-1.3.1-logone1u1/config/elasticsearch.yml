@@ -29,7 +29,7 @@
 # Cluster name identifies your cluster for auto-discovery. If you're running
 # multiple clusters on the same network, make sure you're using unique names.
 #
-cluster.name: elasticsearch
+cluster.name: logone-search-cluster
 
 
 #################################### Node #####################################
@@ -44,11 +44,11 @@ cluster.name: elasticsearch
 #
 # Allow this node to be eligible as a master node (enabled by default):
 #
-#node.master: true
+node.master: true
 #
 # Allow this node to store data (enabled by default):
 #
-#node.data: true
+node.data: true
 
 # You can exploit these settings to design advanced cluster topologies.
 #
@@ -104,7 +104,6 @@ cluster.name: elasticsearch
 
 # Set the number of shards (splits) of an index (5 by default):
 #
-#index.number_of_shards: 5
 
 # Set the number of replicas (additional copies) of an index (1 by default):
 #
@@ -112,8 +111,8 @@ cluster.name: elasticsearch
 # Note, that for development on a local machine, with small indices, it usually
 # makes sense to "disable" the distributed features:
 #
-#index.number_of_shards: 1
-#index.number_of_replicas: 3
+index.number_of_shards: 10
+index.number_of_replicas: 1
 
 # These settings directly affect the performance of index and search operations
 # in your cluster. Assuming you have enough machines to hold shards and
@@ -135,6 +134,9 @@ cluster.name: elasticsearch
 
 # Use the Index Status API (<http://localhost:9200/A/_status>) to inspect
 # the index status.
+indices.memory.index_buffer_size: 70%
+indices.min_index_buffer_size: 48mb
+indices.max_index_buffer_size: unbounded
 
 
 #################################### Paths ####################################
@@ -306,7 +308,7 @@ bootstrap.mlockall: true
 # Set this option to a higher value on a slow or congested network
 # to minimize discovery failures:
 #
-#discovery.zen.ping.timeout: 3s
+discovery.zen.ping.timeout: 10s
 
 # For more information, see
 # <http://elasticsearch.org/guide/en/elasticsearch/reference/current/modules-discovery-zen.html>
@@ -382,3 +384,9 @@ bootstrap.mlockall: true
 # it unless you need it is recommended.
 #
 #http.jsonp.enable: false
+
+#OutOfMemory errors are because the field cache exceeds the maximum heap size.
+#If setting for index.cache.field.type from resident(default) to soft
+
+index.cache.field.type: soft
+

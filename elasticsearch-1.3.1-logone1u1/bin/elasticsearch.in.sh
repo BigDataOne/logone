@@ -3,15 +3,19 @@
 ES_CLASSPATH=$ES_CLASSPATH:$ES_HOME/lib/elasticsearch-1.3.1.jar:$ES_HOME/lib/*:$ES_HOME/lib/sigar/*
 
 if [ "x$ES_MIN_MEM" = "x" ]; then
-    ES_MIN_MEM=256m
+    ES_MIN_MEM=512m
 fi
 if [ "x$ES_MAX_MEM" = "x" ]; then
-    ES_MAX_MEM=1g
+    ES_MAX_MEM=512m
 fi
 if [ "x$ES_HEAP_SIZE" != "x" ]; then
     ES_MIN_MEM=$ES_HEAP_SIZE
     ES_MAX_MEM=$ES_HEAP_SIZE
 fi
+
+ES_MIN_MEM=512m
+ES_MAX_MEM=512m
+ES_HEAP_SIZE=512m
 
 # min and max heap sizes should be set to the same value to avoid
 # stop-the-world GC pauses during resize, and so that we can lock the

@@ -21,4 +21,25 @@
 <name>dfs.replication</name>  
 <value>1</value>  
 </property>  
+
+<property>
+<name>
+    topology.script.file.name
+</name>
+<value>
+    /home/liushenghua/hadoop-2.5.1-logone1u1/bin/getRackName.sh
+</value>
+<description>
+</description>
+</property>
+
+<property>
+<name>
+    topology.script.number.args
+</name>
+<value>
+    1
+</value>
+</property>
+
 </configuration>
