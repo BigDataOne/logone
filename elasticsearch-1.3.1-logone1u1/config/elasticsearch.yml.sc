@@ -44,7 +44,7 @@ cluster.name: elasticsearch
 #
 # Allow this node to be eligible as a master node (enabled by default):
 #
-node.master: false
+node.master: true
 #
 # Allow this node to store data (enabled by default):
 #
