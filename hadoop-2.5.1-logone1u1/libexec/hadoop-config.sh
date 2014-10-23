@@ -150,8 +150,8 @@ fi
 
 JAVA=$JAVA_HOME/bin/java
 # some Java parameters
+# logone: memory, but it is reset by HADOOP_HEAPSIZE
 JAVA_HEAP_MAX=-Xmx1000m 
-
 # check envvars which might override default args
 if [ "$HADOOP_HEAPSIZE" != "" ]; then
   #echo "run with heapsize $HADOOP_HEAPSIZE"

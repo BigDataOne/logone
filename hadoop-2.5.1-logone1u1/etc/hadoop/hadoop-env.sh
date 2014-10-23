@@ -22,7 +22,9 @@
 # remote nodes.
 
 # The java implementation to use.
-export JAVA_HOME=/opt/java/default
+if [ "x$JAVA_HOME" = "x" ]; then
+    export JAVA_HOME=/opt/java/default
+fi
 
 # The jsvc implementation to use. Jsvc is required to run secure datanodes.
 #export JSVC_HOME=${JSVC_HOME}
@@ -39,8 +41,18 @@ for f in $HADOOP_HOME/contrib/capacity-scheduler/*.jar; do
 done
 
 # The maximum amount of heap to use, in MB. Default is 1000.
-export HADOOP_HEAPSIZE=500
-export HADOOP_NAMENODE_INIT_HEAPSIZE=500
+# logone: This is special for logone
+if [ "x$HADOOP_MAX_MEM" = "x" ]; then
+#no m after numbers
+    HADOOP_MAX_MEM=512
+fi
+if [ "x$HADOOP_MIM_MEM" = "x" ]; then
+#no m after numbers
+    HADOOP_MIM_MEM=128
+fi
+export HADOOP_HEAPSIZE=$HADOOP_MAX_MEM
+#logone: This variable is actually not used
+export HADOOP_NAMENODE_INIT_HEAPSIZE=$HADOOP_MIM_MEM
 
 # Extra Java runtime options.  Empty by default.
 export HADOOP_OPTS="$HADOOP_OPTS -Djava.net.preferIPv4Stack=true"
