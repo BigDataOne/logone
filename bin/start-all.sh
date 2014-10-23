@@ -17,8 +17,10 @@ if [ "x$JAVA_HOME" = "x" ]; then
 fi
 
 function print_usage(){
-    echo "Usage: start-all.sh"
+    echo "Usage: $0 <initstart|start|stop|restart>"
 }
+
+#export MY_TEST="### This is a test of env variables ###"
 
 #Usage: start_search <node_type> 
 function start_search(){
@@ -35,41 +37,108 @@ function start_search(){
     #run
     cd ${bin}
     if [ -f "${_SEARCH_HOME}"/bin/start.sh ]; then
-	"${_SEARCH_HOME}"/bin/start.sh
+	exec "${_SEARCH_HOME}"/bin/start.sh
     else
 	echo "${_SEARCH_HOME}/bin/start.sh not found!"
+	return 0
     fi
     return 1
 }
 
-#Usage: start_flume <node_type> 
+function stop_search(){
+    echo "Entering stop_search ..."
+    if [ -f "${_SEARCH_HOME}"/bin/stop.sh ]; then
+	exec "${_SEARCH_HOME}"/bin/stop.sh
+    else
+	echo "${_SEARCH_HOME}/bin/stop.sh not found!"
+	return 0
+    fi
+    return 1
+
+}
+
+#Usage: start_flume 
 function start_flume(){
-    echo "Entering start_flume"
+    echo "Entering start_flume ..."
 
     if [ -f "${_FLUME_HOME}"/bin/start.sh ]; then
-	"${_FLUME_HOME}"/bin/start.sh
+	exec "${_FLUME_HOME}"/bin/start.sh
     else
         echo "${_FLUME_HOME}/bin/start.sh not found!"
+	return 0
     fi
     return 1
 }
 
-#Usage: start_web <node_type> 
+function stop_flume(){
+    echo "Entering stop_flume ..."
+
+    if [ -f "${_FLUME_HOME}"/bin/stop.sh ]; then
+	exec "${_FLUME_HOME}"/bin/stop.sh
+    else
+        echo "${_FLUME_HOME}/bin/stop.sh not found!"
+	return 0
+    fi
+    return 1 
+}
+
+#Usage: start_web 
 function start_web(){
-    echo "Entering start_web"
+    echo "Entering start_web ..."
 
     if [ -f "${_WEB_HOME}"/bin/startup.sh ]; then
-	"${_WEB_HOME}"/bin/startup.sh
+	exec "${_WEB_HOME}"/bin/startup.sh
     else
         echo "${_WEB_HOME}/bin/startup.sh not found!"
+	return 0
     fi
     return 1
 }
 
-#Usage: start_hadoop <node_type> 
+function stop_web(){
+    echo "Entering stop_web ..."
+
+    if [ -f "${_WEB_HOME}"/bin/shutdown.sh ]; then
+	exec "${_WEB_HOME}"/bin/shutdown.sh
+    else
+        echo "${_WEB_HOME}/bin/shutdown.sh not found!"
+	return 0
+    fi
+    return 1
+}
+
+
+#Usage: start_hadoop <initstart|start>
 function start_hadoop(){
     echo "Entering start_hadoop"
+
+    if [ "$1" = "initstart" ]; then
+	if [ -f "${_HADOOP_HOME}"/bin/hdfs ]; then
+	    exec "${_HADOOP_HOME}"/bin/hdfs namenode -format
+	else
+	    echo "${_HADOOP_HOME}/bin/hdfs not found!"
+	    return 0
+	fi
+    fi
+    if [ -f "${_HADOOP_HOME}"/sbin/start-dfs.sh ]; then
+	exec "${_HADOOP_HOME}"/sbin/start-dfs.sh
+    else
+	echo "${_HADOOP_HOME}/sbin/start-dfs.sh not found!"
+	return 0
+    fi
+    return 1
 }
+
+function stop_hadoop(){
+    echo "Entering stop_hadoop"
+    if [ -f "${_HADOOP_HOME}"/sbin/stop-dfs.sh ]; then
+	exec "${_HADOOP_HOME}"/sbin/stop-dfs.sh
+    else
+	echo "${_HADOOP_HOME}/sbin/stop-dfs.sh not found!"
+	return 0
+    fi
+    return 1
+} 
 
 function contains() {
     local n=$#
@@ -83,6 +152,16 @@ function contains() {
     echo "n"
     return 1
 }
+
+case $1 in
+    start|stop|restart|initstart)
+    opt=$1
+    ;;
+    *)
+    print_usage
+    exit 1
+    ;;
+esac
 
 FILE="${bin}/deploy.conf"
 
@@ -106,7 +185,15 @@ while read line; do
 	export ES_MIN_MEM=512m
 	export ES_MAX_MEM=512m
 	export ES_HEAP_SIZE=512m
-	start_search "${array[1]}"
+	if [ "$opt" = "restart" ]; then
+	    stop_search
+	    start_search "${array[1]}"
+	elif [ "$opt" = "stop" ]; then
+	    stop_search
+	else
+            #<initstart|start>
+	    start_search "${array[1]}"
+	fi
 	exit 1
 	;;
 
@@ -116,8 +203,16 @@ while read line; do
 	#assign mem to stand alone search node
 	export FLUME_MIN_MEM=700m
 	export FLUME_MAX_MEM=700m
-	start_flume
-	exit
+	if [ "$opt" = "restart" ]; then
+	    stop_flume
+	    start_flume
+	elif [ "$opt" = "stop" ]; then
+	    stop_flume
+	else
+            #<initstart|start>
+	    start_flume
+	fi
+	exit 1
 	;;
 
 	#node type (web node only)
@@ -125,8 +220,16 @@ while read line; do
 	wn)
         #assign mem
 	#run
-        start_web
-	exit
+	if [ "$opt" = "restart" ]; then
+	    stop_web
+	    start_web
+	elif [ "$opt" = "stop" ]; then
+	    stop_web
+	else
+            #<initstart|start>
+	    start_web
+	fi
+	exit 1
 	;;
 
         #node type sd+wn
@@ -135,7 +238,19 @@ while read line; do
 	export ES_MIN_MEM=512m
         export ES_MAX_MEM=512m
         export ES_HEAP_SIZE=512m
-	start_search "sd"
+	if [ "$opt" = "restart" ]; then
+	    stop_web
+	    stop_search
+	    start_search "sd"
+	    start_web
+	elif [ "$opt" = "stop" ]; then
+	    stop_web
+	    stop_search
+	else
+            #<initstart|start>
+	    start_search "sd"
+	    start_web
+	fi
 	exit 1
 	;;
 
@@ -143,7 +258,18 @@ while read line; do
 	hd+hn)
 #assign mem
 	#run
-	start_hadoop
+	if [ "$opt" = "restart" ]; then
+	    stop_hadoop
+	    start_hadoop "start"   
+	elif [ "$opt" = "stop" ]; then
+	    stop_hadoop
+	elif [ "$opt" = "initstart" ]; then
+	    start_hadoop "initstart"
+	elif [ "$opt" = "start" ]; then
+	    start_hadoop "start"
+	else
+	    echo "No such option $opt"
+	fi
 	exit 1
 	;;
 
@@ -155,8 +281,16 @@ while read line; do
 	#export DATANODE_MIN_MEM
         #export DATANODE_MAX_MEM
         #run
-	start_flume
-	start_hadoop
+	if [ "$opt" = "restart" ]; then
+	    stop_flume
+	    start_flume
+	elif [ "$opt" = "stop" ]; then
+	    stop_flume
+	else
+            #<initstart|start>
+	    start_flume
+	fi
+	#start_hadoop #hd is started by hn node
 	exit 1
 	;;
 
@@ -164,7 +298,6 @@ while read line; do
 	*)
 	echo "${array[1]} is not a defined type of node"
 	;;
-
     esac
 done < $FILE
 

@@ -37,7 +37,8 @@ flume-1.5.0-bin-logone1u1/NOTICE
 flume-1.5.0-bin-logone1u1/README
 flume-1.5.0-bin-logone1u1/RELEASE-NOTES
 flume-1.5.0-bin-logone1u1/docs/
-flume-1.5.0-bin-logone1u1/lib/
+flume-1.5.0-bin-logone1u1/lib/*
+!flume-1.5.0-bin-logone1u1/lib/MsgSink.jar
 flume-1.5.0-bin-logone1u1/logs/
 flume-1.5.0-bin-logone1u1/tools/
 
@@ -45,8 +46,7 @@ flume-1.5.0-bin-logone1u1/tools/
 hadoop-2.5.1-logone1u1/LICENSE.txt
 hadoop-2.5.1-logone1u1/NOTICE.txt
 hadoop-2.5.1-logone1u1/README.txt
-hadoop-2.5.1-logone1u1/bin/getRackName.sh
 hadoop-2.5.1-logone1u1/include/
 hadoop-2.5.1-logone1u1/lib/
-hadoop-2.5.1-logone1u1/sbin/
 hadoop-2.5.1-logone1u1/share/
+hadoop-2.5.1-logone1u1/logs/
