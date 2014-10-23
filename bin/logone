@@ -254,9 +254,10 @@ while read line; do
 	exit 1
 	;;
 
-#node type: hd+hn
-	hd+hn)
-#assign mem
+	#node type: hd+hn|hn
+	#hd+hn|hn is responsible for start all the hd nodes
+	hd+hn|hn)
+	#assign mem
 	#run
 	if [ "$opt" = "restart" ]; then
 	    stop_hadoop
@@ -273,9 +274,9 @@ while read line; do
 	exit 1
 	;;
 
-#node type: hd+fn
+	#node type: hd+fn
 	hd+fn)
-#assign mem
+	#assign mem
 	export FLUME_MIN_MEM=384m
 	export FLUME_MAX_MEM=384m
 	#export DATANODE_MIN_MEM
