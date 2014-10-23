@@ -6,6 +6,7 @@
 *.log
 *.log.*
 *.sig
+*.swp
 #tomcat
 apache-tomcat-7.0.42-logone1u1/LICENSE
 apache-tomcat-7.0.42-logone1u1/NOTICE
