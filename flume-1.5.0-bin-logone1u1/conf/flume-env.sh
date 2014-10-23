@@ -21,11 +21,27 @@
 
 #JAVA_HOME=/usr/lib/jvm/java-6-sun
 #JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64/
-JAVA_HOME=/jre
+#JAVA_HOME=/jre
+if [ "x$JAVA_HOME" = "x" ]; then
+    JAVA_HOME=/jre
+fi
 
 # Give Flume more memory and pre-allocate, enable remote monitoring via JMX
-JAVA_OPTS="-Xms200m -Xmx200m -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.port=5400"
+#-Xms200m -Xmx200m 
+if [ "x$FLUME_MIN_MEM" = "x" ]; then
+    FLUME_MIN_MEM=256m
+fi
+if [ "x$FLUME_MAX_MEM" = "x" ]; then
+    FLUME_MAX_MEM=256m
+fi
+
+FLUME_JAVA_OPTS="-Xms${FLUME_MIN_MEM} -Xms${FLUME_MAX_MEM}"
+
+FLUME_JAVA_OPTS="$FLUME_JAVA_OPTS -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.port=5400"
 
 # Note that the Flume conf directory is always included in the classpath.
 #FLUME_CLASSPATH=""
 
+#Append the FLUME_JAVA_LIBRARY_PATH to whatever the user may have specified in
+#flume-env.sh
+#FLUME_JAVA_LIBRARY_PATH
